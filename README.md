@@ -78,7 +78,7 @@ Launch the notebook or start the Flask app as described above.
 **MIT License**
 
 
-Copyright (c) 2025 Rutendo Simango
+Copyright (c) 2025 Rutendo 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
